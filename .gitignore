@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.agent-runs/
+/data/*.tif
+!/data/jezero-c-crop.tif
+!/data/jezero-c-flat.tif
+!/data/jezero-c-steep.tif
+!/data/jezero-sol1709.tif
+/results/
